@@ -1,0 +1,3 @@
+Rust est un language axé sur la performance et l'agilité
+Rust est née en 2006
+Rust est soutenu par Mozilla jusqu'en 2015
